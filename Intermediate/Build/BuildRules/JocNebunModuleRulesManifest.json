@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"E:\\UNREALENGINE\\JocNebun\\Source\\JocNebun\\JocNebun.Build.cs",
+		"E:\\UNREALENGINE\\JocNebun\\Source\\JocNebun.Target.cs",
+		"E:\\UNREALENGINE\\JocNebun\\Source\\JocNebunEditor.Target.cs"
+	],
+	"EngineVersion": "5.0.0"
+}

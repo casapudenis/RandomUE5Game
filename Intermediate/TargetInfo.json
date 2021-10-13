@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "JocNebun",
+			"Path": "E:\\UNREALENGINE\\JocNebun\\Source\\JocNebun.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "JocNebunEditor",
+			"Path": "E:\\UNREALENGINE\\JocNebun\\Source\\JocNebunEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
